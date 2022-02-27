@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+
+    <string name="peli1">Deadpool</string>
+    <string name="peli2">Wolverine inmortal</string>
+    <string name="peli3">Shang-Chi</string>
+    <string name="peli4">Mad Max (2015)</string>
+    <string name="peli5">Otra película de huevos y un pollo</string>
+
+    <string name="peli1_sinopsis">Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida, adoptando Wade entonces el alter ego de Deadpool. Armado con sus nuevas habilidades y un oscuro y retorcido sentido del humor, Deadpool intentará dar caza al hombre que casi destruye su vida.</string>
+    <string name="peli2_sinopsis">Un Logan amnésico investiga su pasado en el mundo del crimen organizado japonés. Vulnerable por primera vez y desafiando sus límites físicos y emocionales, no sólo se enfrentará al letal acero samurái, sino que además mantendrá una lucha interna contra su inmortalidad, que lo hará más fuerte.</string>
+    <string name="peli3_sinopsis">Adaptación cinematográfica del héroe creado por Steve Englehart y Jim Starlin en 1973, un personaje mitad chino, mitad americano, cuyo característico estilo de combate mezclaba kung-fu, nunchacos y armas de fuego. </string>
+    <string name="peli4_sinopsis">Perseguido por su turbulento pasado, Mad Max cree que la mejor forma de sobrevivir es ir solo por el mundo. Sin embargo, se ve arrastrado a formar parte de un grupo que huye a través del desierto en un War Rig conducido por una Emperatriz de élite: Furiosa. Escapan de una Ciudadela tiranizada por Immortan Joe, a quien han arrebatado algo irreemplazable. Enfurecido, el Señor de la Guerra moviliza a todas sus bandas y persigue implacablemente a los rebeldes en una "guerra de la carretera" de altas revoluciones… Cuarta entrega de la saga post-apocalíptica que resucita la trilogía que a principios de los ochenta protagonizó Mel Gibson.</string>
+    <string name="peli5_sinopsis">Toto, ahora un pollo, trata de vivir como tal, mientras que Willy y Bibi lidian ciertos problemas entre ellos. Un huevo brujo del desierto necesita un corazón de pollo para poder realizar un hechizo. Éste manda a sus ejércitos de huevos de zopilote, de avestruz y de escorpión a secuestrar a Toto. Sus amigos se embarcan en un viaje por el desierto al rescate del pollo, en donde vivirán inumerables aventuras.</string>
+
+
+</resources>
