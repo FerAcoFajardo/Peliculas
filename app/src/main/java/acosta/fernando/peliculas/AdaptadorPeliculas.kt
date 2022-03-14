@@ -1,6 +1,7 @@
 package acosta.fernando.peliculas
 
 import android.content.Context
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -46,6 +47,19 @@ class AdaptadorPeliculas: BaseAdapter {
 
         iv_img.setImageResource(pelicula.image)
         tv_nombre.setText(pelicula.titulo)
+
+
+        vista.setOnClickListener {
+            val intent: Intent = Intent(context, PeliculaActivity::class.java)
+
+            intent.putExtra("titulo", pelicula.titulo)
+            intent.putExtra("sinopsis", pelicula.sinopsis)
+            intent.putExtra("image", pelicula.image)
+
+            context.startActivities(arrayOf(intent))
+        }
+
+
 
         return vista
     }
